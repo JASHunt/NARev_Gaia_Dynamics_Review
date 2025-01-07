@@ -10,5 +10,3 @@ For Figure 6 the UMS and Cepheid plots are available directly through a tutorial
 
 Figure's 7,8,9,10,12,13,14 are created from a subset of the Gaia DR3 RVS data with added action variables from Adrian Price-Whelan using gala. The file is available at Zenodo (https://doi.org/10.5281/zenodo.14609059) as GaiaDR3 and must be downloaded spearately.
 
-A notebook for Figure 15 will be uploaded shortly
-
