@@ -1,0 +1,42 @@
+# reference	radius	log10M	minus	plus	tracers	dynmeth	symbol	colour
+Posti19 	20	11.33	0.05	0.05	GC	DF	<	red
+Watkins19	21.1	11.32	0.07	0.08	GC	TME	<	deepskyblue
+Watkins19	39.5	11.62	0.06	0.07	GC	TME	<	deepskyblue
+Vasiliev19	25.0	11.47	0.05	0.06	GC	DF	<	lightcoral
+Vasiliev19	48.0	11.72	0.07	0.07	GC	DF	<	lightcoral
+Eadie19 	30.0	11.47	0.06	0.06	GC	TME	<	steelblue
+Eadie19 	55.0	11.59	0.05	0.05	GC	TME	<	steelblue
+Wang22  	42.0	11.53	0.02	0.03	GC	DF	<	firebrick
+Wang22  	84.0	11.71	0.04	0.05	GC	DF	<	firebrick
+Sun23   	37.3	11.62	0.02	0.02	GC	TME	<	royalblue
+Callingham19	222.0	12.07	0.06	0.07	dSph	sim	>	mediumorchid
+Li20    	60.	11.66	0.06	0.07	dSph	sim	>	darkmagenta
+Li20    	125.	11.93	0.06	0.06	dSph	sim	>	darkmagenta
+Fritz20 	64.0	11.76	0.12	0.10	dSph	TME/sim	>	blue
+Fritz20 	273.0	12.15	0.11	0.10	dSph	TME/sim	>	blue
+Cautun20	40.	11.52	0.02	0.02	dSph	sim	>	slateblue
+Cautun20	90.	11.78	0.04	0.04	dSph	sim	>	slateblue
+Slizewski22	70.	11.80	0.05	0.05	dSph	TME	>	darkturquoise
+Slizewski22	150.	11.99	0.06	0.06	dSph	TME	>	darkturquoise
+CorreaMagnus22	32.0	11.50	0.04	0.04	GC+dSph	DF	D	indianred
+CorreaMagnus22	136.0	11.91	0.05	0.06	GC+dSph	DF	D	indianred
+Li24    	53.5	11.69	0.11	0.10	GC+dSph	DF	D	lightpink
+Li24    	110	11.97	0.08	0.08	GC+dSph	DF	D	lightpink
+
+Wegg19  	15.0	11.18	0.05	0.04	halo	Jeans	o	lime
+Hattori21	20.0	11.27	0.01	0.01	halo	DF	o	chocolate
+Deason21	100.0	11.78	0.10	0.10	halo	TME	o	cyan
+Shen22  	100.0	11.84	0.03	0.03	halo	TME	o	dodgerblue
+Bird22  	52.0	11.58	0.16	0.14	halo	TME/Je	o	mediumseagreen
+Bird22  	73.0	11.63	0.10	0.10	halo	TME/Je	o	mediumseagreen
+
+Malhan19	14.5	11.24	0.02	0.02	stream	stream	x	tan
+Erkal19 	50.0	11.58	0.15	0.14	stream	stream	x	lightsalmon
+Reino21/22	20.0	11.35	0.02	0.02	stream	stream	x	gold
+Reino21/22	20.0	11.61	0.16	0.17	stream	stream	x	gold
+Vasiliev21	38.0	11.51	0.01	0.01	stream	stream	x	orange
+Vasiliev21	80.0	11.70	0.02	0.02	stream	stream	x	orange
+Koposov23	35.0	11.47	0.02	0.02	stream	stream	x	darkgoldenrod
+Koposov23	75.0	11.68	0.04	0.05	stream	stream	x	darkgoldenrod
+Palau23 	15.2	11.20	0.01	0.01	stream	stream	x	olive
+Ibata24 	23.0	11.37	0.01	0.01	stream	stream	x	darkkhaki

@@ -1,0 +1,12 @@
+# name  	vesc	minus	plus	symbol	color	M200[1e12Msun]
+Smith07 	544	30	40	o	gray	# 1.42-0.54+1.14 (90%)
+#Piffl14 	533	41	54	o	gray  # 90% confidence intervals; below rescaled for 67%
+Piffl14 	533	25	34	o	gray	# 1.60-0.40+0.50
+Williams17	521	30	46	x	gray	# not provided
+Monari18	580	63	63	o	blue	# 1.28-0.50+0.68
+Deason19	528	25	24	o	blue	# 1.00-0.24+0.31
+#Grand19 	no new estimates of vesc, just recalibration of Mtot upward by 20-25%
+Koppelman21	497	8	8	o	blue	# 1.11-0.07+0.08, after correcting_up_by_10%
+Prudil22	512	37	94	x	blue	# 0.83-0.16+0.29, proposed an upward correction to 1.26-0.22+0.40
+Necib22 	445	8	25	o	blue	# 0.46-0.08+0.15
+
